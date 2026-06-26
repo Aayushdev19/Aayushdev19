@@ -30,9 +30,7 @@ Advanced Machine Learning
 
 Deep Learning & Computer Vision
 
-System Design
 
-Data Structures & Algorithms
 
 <!-- Snake Game Repo View -->
 
