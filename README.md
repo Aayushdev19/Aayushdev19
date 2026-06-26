@@ -4,22 +4,36 @@
 Email Me 👉 ✉️ **ayushdev1901@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 🚀 What I'm Working On
+
 🤖 AI-powered applications using Python and Machine Learning
+
 🌐 Full-stack web development with React.js, FastAPI, and MongoDB
+
 📊 Data Science and predictive analytics projects
+
 📱 Exploring Android application development
+
 📌 Featured Projects
-ScanAI
+
+📈 ScanAI
 AI-powered Image Verification & OCR System using React.js, FastAPI, MongoDB, OpenCV, CNN, and OCR.
+
 📈 SmartLand AI
 Machine Learning platform for land price prediction and future price forecasting.
+
 🏠 House Rent Prediction
 Predicts rental prices using machine learning based on location, amenities, and property details.
+
 🌱 Currently Learning
+
 Advanced Machine Learning
+
 Deep Learning & Computer Vision
+
 System Design
+
 Data Structures & Algorithms
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aayush._1901?igsh=MTJlMXNtbXV6NjV5bw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayush-machhi-23023b3aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdev1901@gmail.com) 
 
